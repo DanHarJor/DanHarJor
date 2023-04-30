@@ -10,8 +10,8 @@ Most of my coding experience is in Python. It is the main language we used in UN
 The main libraries used are: 
 - Tensorflow
 - Pytorch
-- Optuna
-- Dask Parelellisation
+- Optuna Hyper Parameter Tuning
+- Dask Parallelization
 
 ### Java
 I also have some experience in Java. I first used it in a class called Models of Physical Phenomena back in 2016 at the University of Liverpool. We used it to track particle trajectories in the LHC. We were given data of initial position momentum and mass of each particle. We also had data on the external magnetic field. The main goal was to find the mass of the Higgs Boson. Unfortunatly I didn't have git at this time and I don't have the code any more.
