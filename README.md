@@ -13,6 +13,7 @@ I also have some experience in Java. I first used it in a class called Models of
 I did another Java project in Physics of Data at UNIPD. I took as class called Information Retrival where I had to create a novel approach to a search engin. We used [Apache Lucene](https://lucene.apache.org/core/) and its core modules to create a basic bag of word pipeline. Then we experimented with using wikipedias public list of page titles to decipher if some consecutive words have a single meaning. For example New and York are two words with one meaning when written together. The system should link them together to provide better search results. The repo is in [BitBucket](https://bitbucket.org/dan-har-jor/seupd2122-ist-before-final-clean/src/master/), feel free to check it out.
 
 ### C++
+C++ is the obvious choice for speed but it has also found a niche in Adruino micro controllers. I learn't some C++ in order to develop my Arduino controlled medication dispension system. It is used to control a stepper motor that turns a tray of compartments towards and opening in the device. The C++ also manages the serial communication with a python GUI that can program the device to dispence at the appropriate time. I think an impenatrable version of the device would be useful for care workers who have patients that must take addictive medication. It could also be useful for people to smokers to manage their daily dose when trying to quit.
 
 
 <!--
